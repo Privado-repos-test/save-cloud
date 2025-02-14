@@ -6,7 +6,7 @@ build
 /.mailmap
 *.iml
 out
-.DS_Store
+.DS_Store 
 save-cloud-charts/save-cloud/charts
 *.log
 *.jar
